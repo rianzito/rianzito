@@ -1,4 +1,4 @@
-### Oi, aqui é o Rian! Um apaixoando por tecnologia! 🤙💜
+### Oi, aqui é o Rian! Um apaixonado por tecnologia! 🤙💜
 
 - ✍ Hoje estudo com foco para Desenvolvimento Mobile.
 - 📚 Estudando Javascript no momento.
