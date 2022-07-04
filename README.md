@@ -1,16 +1,24 @@
-### Hi there 👋
+### Oi, aqui é o Rian! Um apaixoando por tecnologia! 🤙💜
 
-<!--
-**rianzito/rianzito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✍ Hoje estudo com foco para Desenvolvimento Mobile.
+- 📚 Estudando Javascript no momento.
+- ⚡ Em breve React Native e Typescript.
+- 📨 Contato: riaanatanael@gmail.com
+- ⚙ Linkedin: https://www.linkedin.com/in/rian-natanael/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/rianzito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianzito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianzito&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br>
+
+<div align="left" >
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-React" height+"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     <img align="center" alt="Rafa-Ts" height+"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">       
+</div>
+
