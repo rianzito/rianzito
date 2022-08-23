@@ -5,7 +5,6 @@
 ⚙ Em breve, cursar ensino superior em <strong> Análise e Desenvolvimento de Sistemas </strong>.
 
 <br>
-<br>
 
 <div> 
   <p><strong><em>Tecnologias:</strong></em></p>
@@ -18,7 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/>  
 </div>
 
-<br>
 
 <div>
 <p><strong><em>Status:</strong></em></p>
@@ -35,6 +33,5 @@
   <a href = "riaanatanael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rian-natanael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<br>
 
 ![Snake animation](https://github.com/rianzito/rianzito/blob/output/github-contribution-grid-snake.svg)
