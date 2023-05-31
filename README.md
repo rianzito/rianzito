@@ -15,7 +15,7 @@
 
 <div>
   <a hrfe="https://github.com/rianzito"></a>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianzito&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
