@@ -15,7 +15,7 @@
 
 
 <div>
-  [![Anurag's GitHub stats](https://rianzito-repository-rjq2.vercel.app/api?username=rianzito)](https://github.com/rianzito/github-readme-stats)
+  <img align="left" alt="Github States rianzito" src="https://https://rianzito-repository-rjq2-rianzito.vercel.app/api?username=rianzito&show_icons=true&hide_border=true" />
 </div>
 
 
