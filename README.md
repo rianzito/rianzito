@@ -22,5 +22,4 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
-<br>
 ![Snake animation](https://github.com/rianzito/rianzito/blob/output/github-contribution-grid-snake.svg)
