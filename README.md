@@ -7,5 +7,6 @@
 
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito&show_icons=true&theme=midnight-purple)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rianzito&repo=github-readme-stats)](https://github.com/rianzito/github-readme-stats)
 
 ![Snake animation](https://github.com/rianzito/rianzito/blob/output/github-contribution-grid-snake.svg)
