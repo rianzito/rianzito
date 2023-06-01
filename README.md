@@ -7,8 +7,11 @@
 
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito&show_icons=true&theme=midnight-purple)
+
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianzito&layout=compact)](https://github.com/rianzito/github-readme-stats)
+
 <br>
 
 <div style="display:inline-block">
@@ -19,4 +22,5 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
+<br>
 ![Snake animation](https://github.com/rianzito/rianzito/blob/output/github-contribution-grid-snake.svg)
