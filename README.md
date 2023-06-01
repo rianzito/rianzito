@@ -15,7 +15,7 @@
 
 
 <div>
-  ![Anurag's GitHub stats](https://rianzito-repository-rjq2.vercel.app//api?username=rianzito&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://rianzito-repository-rjq2.vercel.app/api?username=rianzito)](https://github.com/rianzito/github-readme-stats)
 </div>
 
 
