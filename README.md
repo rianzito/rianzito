@@ -7,6 +7,6 @@
 
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianzito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/rianzito/rianzito/blob/output/github-contribution-grid-snake.svg)
