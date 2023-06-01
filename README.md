@@ -13,13 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/>  
 </div>
 
-
-<div>
-  <img width="100" height="100" [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito)](https://github.com/rianzito/github-readme-stats)/>
-</div>
-
-
-<div>
+<div style="margin-top: 64">
   <a href = "riaanatanael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rian-natanael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/_riancl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
