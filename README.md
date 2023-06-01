@@ -6,6 +6,6 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rianzito)
 
 
-![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito&show_icons=true&theme=radical)
+![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito&show_icons=true&theme=midnight-purple)
 
 ![Snake animation](https://github.com/rianzito/rianzito/blob/output/github-contribution-grid-snake.svg)
