@@ -15,7 +15,7 @@
 
 
 <div>
-  <img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito)](https://github.com/rianzito/github-readme-stats)/>
+  <img width="100" height="100" [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito)](https://github.com/rianzito/github-readme-stats)/>
 </div>
 
 
