@@ -7,9 +7,6 @@
 
 
 ![Rian GitHub stats](https://github-readme-stats.vercel.app/api?username=rianzito&show_icons=true&theme=midnight-purple)
-
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rianzito&layout=compact)](https://github.com/rianzito/github-readme-stats)
 
 <br>
