@@ -2,6 +2,10 @@
 
 ## 💜 Olá, meu nome é <strong>Rian Natanael!</strong>
 
+Meu nome é Rian Natanael, ou "Rianzito" (Tanto faz hahaha). Sou um futuro Desenvolvedor Frontend & um futuro UI Design.
+
+Inicialmente entrei no universo da tecnologia e da programação em Abril de 2022. Diante disso, fui pesquisar mais pelo mercado e como poderia me inserir nele, até que, comecei assistindo vídeos de Javascript do curso em vídeo do Guanabara no youtube.Em Maio do mesmo ano, dei o pontapé em um curso mais avançado onde eu poderia evoluir mais, a Alura. Pela imensidade de cursos da plataforma resolvi focar carreira de desenvolvimento Front-end.
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
