@@ -2,13 +2,13 @@
 
 ## 🧠 Seja bem-vindo(a) ao meu GitHub!</strong>
 
-Meu nome é Rian Natanael, futuro desenvolvedor mobile focado atualmente em React Native mas com pretensão em expandir meu conhecimento.
+Meu nome é Rian Natanael, desenvolvedor fullStack focado atualmente na stack de JavaScript mas com pretensão em expandir meu conhecimento.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
-- Javascript
+- HTML5 e CSS3
 - Em breve...
   
 **Ferramentas de Desenvolvimento**
